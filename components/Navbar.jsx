@@ -262,9 +262,9 @@ const CSS = `
 `
 
 const LINKS = [
-  { label: 'How it works', href: '#' },
-  { label: 'Rates', href: '#' },
-  { label: 'Company', href: '#' },
+  { label: 'How it works', href: '/how-it-works' },
+  { label: 'Rates', href: '/rates' },
+  { label: 'Company', href: '/company' },
 ]
 
 export default function Navbar() {
